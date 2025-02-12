@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vinz68)
+## 𝗦𝘁𝗮𝘁𝘀
+![Vinz68 GitHub stats](https://github-readme-stats.vercel.app/api?username=Vinz68&show_icons=true&theme=dracula)
 
 
 
